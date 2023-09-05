@@ -40,7 +40,11 @@ You can access the project demo [here]([https://lnkd.in/dS3QfN5c](https://64f4cb
 The project relies on external APIs to fetch meal-related data. You can access the API used in this project [here](https://lnkd.in/dkmfu-Mj).
 
 ## How to Run
-1. ```bash   git clone https://github.com/your-username/e-commerce-books.git
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/your-username/e-commerce-books.git
+
 2. Open the `index.html` file in your web browser to launch the Yummy Route Exam web application.
 
 
