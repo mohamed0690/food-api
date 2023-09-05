@@ -2,6 +2,8 @@
 
 Yummy Route is a web application that provides access to a variety of meal-related information through a set of API endpoints. This project is organized into five main sections, each serving a different purpose. Additionally, it incorporates various technologies and features to enhance user experience and functionality.
 
+<img src="https://res.cloudinary.com/dcqttctnu/image/upload/v1693935709/Screenshot_from_2023-09-05_20-41-06_imotag.png" alt="Search TextInput" width="100%" height="" /> 
+
 ## Sections
 
 ### 1. Search
