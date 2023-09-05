@@ -34,7 +34,7 @@ Yummy Route is a web application that provides access to a variety of meal-relat
 - Axios for API requests
 
 ## Demo
-You can access the project demo [here](https://lnkd.in/dS3QfN5c](https://64f4cbe1d2209b3939574b8c--eloquent-sherbet-daded3.netlify.app/).
+You can access the project demo [here](https://64f4cbe1d2209b3939574b8c--eloquent-sherbet-daded3.netlify.app/).
 
 ## API
 The project relies on external APIs to fetch meal-related data. You can access the API used in this project [here](https://lnkd.in/dkmfu-Mj).
